@@ -1,0 +1,12 @@
+20/10/2023;Entrega H1;Diagrama de Gantt;
+03/11/2023;Entrega H2;Esquema del programa;
+24/11/2023;Entrega H3;Estudio del programa;
+15/12/2023;Entrega H4;Estudio del lenguaje y desarrollo funciones base;
+19/01/2024;Entrega H5;Desarrollo funciones base;
+02/02/2024;Entrega H6;Desarrollo funciones base;
+16/02/2024;Entrega H7;Almacenamiento de datos;
+08/03/2024;Entrega H8;Función editar;
+15/03/2024;Entrega H9;Eliminar eventos;
+12/04/2024;Entrega H10;Revisión y mejoras;
+26/04/2024;Entrega HF;Entrega final memoria;
+03/05/2024;Presentación Proj3;Presentación final;
